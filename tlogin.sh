@@ -29,8 +29,8 @@ echo  "    ██║   ███████╗╚██████╔╝╚█
 echo  "    ╚═╝   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝ "
 echo "${reset}"
 echo  "${green}_____________________${cyan}1.0v${green}__________________________"
-echo  "${yellow}               Created by TECH-X "
-echo  "                  www.mrtechx.com  "
+echo  "${yellow}               Created by Star Stalker "
+echo  "                  ------  "
 echo  "${reset}"
 # Checking Requirents
 
